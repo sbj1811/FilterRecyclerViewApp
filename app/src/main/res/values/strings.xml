@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FilterRecyclerViewApp</string>
+    <string name="gluten_free">Gluten-Free</string>
+    <string name="vegetarian">Vegeterian</string>
+</resources>
